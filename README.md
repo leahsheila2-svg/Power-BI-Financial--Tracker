@@ -1,4 +1,5 @@
-# Power-BI-Financial--Insight-Dashboard
+#https://github.com/leahsheila2-svg/Power-BI-Financial--Tracker/blob/main/Dashbard-Preview.png.docx
+Power-BI-Financial--Insight-Dashboard
 This powerBI project analyzing uber spending across department that is HQ and Properties to increase cost visibility and accountability. 
 # Project objectivity
 The main aim of this dashboard is to visualize and compare departmental uber spending, identify top-spending department and highlight cost pattern between HQ and Property. 
